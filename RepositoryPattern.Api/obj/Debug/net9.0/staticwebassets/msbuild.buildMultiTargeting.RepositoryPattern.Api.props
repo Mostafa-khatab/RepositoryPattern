@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RepositoryPattern.Api.props" />
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\bin\Debug\net9.0\RepositoryPattern.EF.deps.json
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\bin\Debug\net9.0\RepositoryPattern.EF.runtimeconfig.json
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\bin\Debug\net9.0\RepositoryPattern.EF.dll
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\bin\Debug\net9.0\RepositoryPattern.EF.pdb
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\obj\Debug\net9.0\RepositoryPattern.EF.csproj.AssemblyReference.cache
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\obj\Debug\net9.0\RepositoryPattern.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\obj\Debug\net9.0\RepositoryPattern.EF.AssemblyInfoInputs.cache
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\obj\Debug\net9.0\RepositoryPattern.EF.AssemblyInfo.cs
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\obj\Debug\net9.0\RepositoryPattern.EF.csproj.CoreCompileInputs.cache
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\obj\Debug\net9.0\RepositoryPattern.EF.dll
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\obj\Debug\net9.0\refint\RepositoryPattern.EF.dll
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\obj\Debug\net9.0\RepositoryPattern.EF.pdb
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\obj\Debug\net9.0\RepositoryPattern.EF.genruntimeconfig.cache
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\obj\Debug\net9.0\ref\RepositoryPattern.EF.dll
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\bin\Debug\net9.0\RepositoryPattern.Core.dll
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\bin\Debug\net9.0\RepositoryPattern.Core.pdb
+C:\Users\Khattab\source\repos\RepositoryPattern.Api\RepositoryPattern.EF\obj\Debug\net9.0\Reposito.2C18524D.Up2Date

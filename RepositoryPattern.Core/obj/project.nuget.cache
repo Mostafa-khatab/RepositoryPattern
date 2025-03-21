@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "I1Uta0ve0k0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Khattab\\source\\repos\\RepositoryPattern.Api\\RepositoryPattern.Core\\RepositoryPattern.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khattab\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Khattab\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Khattab\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Khattab\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Khattab\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Khattab\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Khattab\\.nuget\\packages\\scalar.aspnetcore\\2.1.0\\scalar.aspnetcore.2.1.0.nupkg.sha512",
+    "C:\\Users\\Khattab\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
